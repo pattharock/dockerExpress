@@ -1,2 +1,2 @@
 # dockerExpress
-Containerising a simple express application using docker.
+Creating a Docker Image a simple express application.
